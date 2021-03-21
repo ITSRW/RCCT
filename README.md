@@ -4,3 +4,4 @@ After you download the RCCT_V1.0.rar,Environmentpack01.rar & Environmentpack02.r
 You may read the "help.pdf"  learning how to use this system, and you will have to make sure your communicate objects are also using RCCT if you want to send/recieve encrypted messages.
 
 EL PSY CONGROO.
+——2020.04
